@@ -1,0 +1,7 @@
+{
+    "ssid": "your_ssid",
+    "password": "your_password",
+    "relay_pin": 5,
+    "led_pin": 4,
+    "temperature_pin": 0
+}
